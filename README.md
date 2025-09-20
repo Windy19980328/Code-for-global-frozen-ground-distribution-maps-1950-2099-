@@ -1,2 +1,2 @@
-# Code-for-global-frozen-ground-distribution-maps-1950-2099-
-This repository contains four NCL script: AFI.ncl computes Annual Freezing Index from daily temperature data; ATI.ncl computes Annual Thawing Index; Kappa_Ft.ncl optimizes freezing thresholds using three observational datasets through Kappa coefficient validation; and Permafrost_distribution_data.ncl generates final permafrost distribution maps.
+This repository contains four NCL script: AFI.ncl computes Annual Freezing Index from daily temperature data; ATI.ncl computes Annual Thawing Index; Kappa\_Ft.ncl optimizes freezing thresholds using three observational datasets through Kappa coefficient validation; and Permafrost\_distribution\_data.ncl generates final permafrost distribution maps (1950-2099) for 25 CMIP6 models across four SSP scenarios, applying region-specific thresholds to classify permafrost into four categories.
+
